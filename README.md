@@ -1,1 +1,5 @@
 # Machine_Learning-Heart-diseases-
+
+Les maladies cardiovasculaires ou cardiaques décrivent une série d'affections qui affectent votre cœur. Les maladies relevant des maladies cardiaques comprennent les maladies des vaisseaux sanguins, telles que les maladies coronariennes. Selon les statistiques de l'OMS, 17,9 millions de personnes meurent chaque année de maladies cardiaques. L'étude médicale indique que le mode de vie humain est la principale raison de ce problème cardiaque. En dehors de cela, il existe de nombreux facteurs clés qui indiquent qu'une personne peut ou non être atteinte d'une maladie cardiaque.
+
+Mon objectif est donc de développer una application streamlit qui permettre de prédire, en fonctions de différents facteurs rentrés par l'utilisateur, si il est à risque ou non de dévelloper une maladie cardiaque + conseils pour le prévenir (on verra...)
